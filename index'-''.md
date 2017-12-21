@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[https://github.com/alexander-lebedev-label-10-1-3-com/Requires.private](another-page).
 
 There should be whitespace between paragraphs.
 
